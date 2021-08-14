@@ -1,4 +1,4 @@
-GecaToons
+# GecaToons-Hackathon2019
 
 Problem Statement : 
           Reduce the amount of push notifications require for e-commerce app.
@@ -11,4 +11,4 @@ Installation :
 
 Execution details :
           After installing the dependencies from requirements.txt, run command # python app.py
-# GecaToons-Hackathon2019
+
